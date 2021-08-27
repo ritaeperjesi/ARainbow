@@ -1,4 +1,4 @@
-# ARainbow
+# ARainbow- szivÁRvány
 with Gábor Ott
 
 ## Concept
@@ -10,3 +10,5 @@ We are still developing the concept, but even just placing rainbows in Augmented
 ### Plan
 to create an app, where you can put rainbows to connect two places.
 GPS based. 
+
+
