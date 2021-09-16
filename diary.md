@@ -15,6 +15,10 @@ I also tried to look up if I can get into prison by using the crown not how it i
 ## 01.09.
 They answered from the legal advice association, they said it's a very interesting question. Long story short, I won't get into prison, and I'm not commiting anything illegal. In case I create an app, I have to mention all the safety cautions, like in Pokémon go, that you shouldn't drive during using the app, and pay attention to real life things happening. 
 
+## 16.09.
+looking for rainbow models. this looks kind of how i imagined it.
+https://www.cgtrader.com/3d-models/exterior/landscape/rainbow-e4a36be8-1c3b-4dd2-9f4a-646784080093
+
 
 
 
