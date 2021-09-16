@@ -18,6 +18,9 @@ They answered from the legal advice association, they said it's a very interesti
 ## 16.09.
 looking for rainbow models. this looks kind of how i imagined it.
 https://www.cgtrader.com/3d-models/exterior/landscape/rainbow-e4a36be8-1c3b-4dd2-9f4a-646784080093
+looking at the space of the crown looking for things that could be markers here.
+https://www.thinglink.com/mediacard/1311695728459907074
+so far that i can imagine as an option: the kupola itself, the floor pattern. it would be cool if the texture of the marble holding the crown would be it, but it's not too contrasty.
 
 
 
