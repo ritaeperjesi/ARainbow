@@ -20,10 +20,12 @@ looking for rainbow models. this looks kind of how i imagined it.
 https://www.cgtrader.com/3d-models/exterior/landscape/rainbow-e4a36be8-1c3b-4dd2-9f4a-646784080093
 looking at the space of the crown looking for things that could be markers here.
 https://www.thinglink.com/mediacard/1311695728459907074
-so far that i can imagine as an option: the kupola itself, the floor pattern. it would be cool if the texture of the marble holding the crown would be it, but it's not too contrasty.
 ![crown](img/parlamentscreenshot1.jpg)
 ![crown](img/parlamentscreenshot2.jpg)
 ![crown](img/parlamentscreenshot3.jpg)
+so far that i can imagine as an option: the kupola itself, the floor pattern. it would be cool if the texture of the marble holding the crown would be it, but it's not too contrasty.
+![floor](img/floor.jpeg)
+![kupola](img/kupola.jpeg)
 I bought tickets to the parliament, unfortunately they just got more expensive. I'll have a trip on the 24th, when I make as many pictures as possibles, for having the images for markers. I'll have another trip on the 28th, when hopefully at least one of my markers will turn on, and put the rainbow in its correct place. In case something goes wrong, I can still go on the 29th or 30th. I'm a bit afraid of that I will look too suspicious, as one can enter the parliament only with 45 min long guided tours, and the crown is just one stop. In theory, I can make photos, but I'm not sure if in the quantity that I want to. 
 
 ## 19.09.
