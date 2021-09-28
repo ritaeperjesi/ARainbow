@@ -50,4 +50,5 @@ I've spent more time on finding what could I do wrong in putting the texture on 
 I made the rainbow colourful, but I couldn't figure out yet, where to put hte black and white transparency layer of it. The two Unity pages I've been reading didn't fully help.
 I implemented it though and now it's working that when my phone sees the carpet, the rainbow appears. 
 Weirdly only one side is visible. I might just put 2 rainbows next to each other facing the other directions.
+![livingroomrainbow](img/screenshot1.jpg)
 
