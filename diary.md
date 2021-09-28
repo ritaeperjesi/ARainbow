@@ -38,3 +38,16 @@ In the room afterwards, there is a rug, which has a nice pattern, and if one loo
 I was very disappointed by this fact.
 I looked at the parliamental meeting room as well, where one could put a rainbow above our prime minister, and there are some details, which could be used as markers, for example there is a very pretty heating and airing system which has ornamentic lids, and this space is used more actively then the crown space, and it would be fun, if the politicians of the opposition could protest with it, at the same time, this would give an extra meaning to my project, and I prefer if it is stays neutral.
 
+## 26.09.
+I saw a funny post about the parliament and i realised, that if I want to put a rainbow over the parliament, I should go to the other side of the Danube, and not next to it. This could have been obvious, but it wasn't for me. :S
+## 27.09.
+I implemented the rainbow model to Unity, which I bought for 3 dollars. It was gray, and I couldn't figure out why is it gray and I could find the texture which looked any colourful. I've spent a lot of time and I got very annoyed.
+I decided to make the prototype from the cloud AR project, as it is already working, I just created a new scene for the rainbow. They kind of have the same topic, so it's fair.
+I chose my friend's carpet as a marker as it looks similarly detailed as in the parliament. 
+
+## 28.09.
+I've spent more time on finding what could I do wrong in putting the texture on the model. After an awkward amount of time I realised that I didn't unzip that folder of the textures, where the colourful part is. :S 
+I made the rainbow colourful, but I couldn't figure out yet, where to put hte black and white transparency layer of it. The two Unity pages I've been reading didn't fully help.
+I implemented it though and now it's working that when my phone sees the carpet, the rainbow appears. 
+Weirdly only one side is visible. I might just put 2 rainbows next to each other facing the other directions.
+
