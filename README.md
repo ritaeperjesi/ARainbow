@@ -28,6 +28,7 @@ I downloaded an already existing very simple rainbow 3d model, on one hand, beca
 ### What worked well, what didn't work and why? In which context does your project stand? Future Work?
 #### What worked well:
 - I really like my concept, and whoever I told my idea, they found it very sharp and on-point.
+- I'm glad I've spent a lot of time on thinking about the concept, it started from Gábor's idea with flags and computer vision, and I've spent a lot of time considering different platforms and interaction options. I think the current version is the most simple version in a good way, in terms of meaning and user interaction.
 - I especially like the turning a historical object into an AR protest, and I'm very sad that the execution is not legally possible. 
 - changing to plan B is an easier and cheaper option for execution
 - I tried to solve everything with only asking for opinion from other people, but without asking for hands-on help, which is good for my personal development. 
@@ -41,6 +42,9 @@ I downloaded an already existing very simple rainbow 3d model, on one hand, beca
 
 #### Future work:
 - to make a version which is accessible for anybody on iphone and android as well
+- to put it on the app store
+- to make 444 (one of the main independent Hungarian news portals) to write about it
+- it's an option to make a nicer rainbow
 
 
 ## Lessons Learned
