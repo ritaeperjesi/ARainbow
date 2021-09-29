@@ -53,3 +53,10 @@ Weirdly only one side is visible. I might just put 2 rainbows next to each other
 
 <img src="img/screenshot1.jpg" width="300" />
 
+## 29.09.
+Another field trip, I looked for marker options at Batthyányi square, which is on the opposite side of the Danube, so the Parliament has the best iew from there and it's usually photographed from that point of view. Then I went to the Kossuth square, where this time they let average humans on the square, last time it was closed. These are the possible markers I collected today.
+
+<img src="img/markerek.jpg" width="300" />
+
+I've tried to make the rainbow seethrough again, I don't understand why I'm spending so much time on this. 
+And I worked on the documentation most of the time today.
