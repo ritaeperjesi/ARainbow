@@ -29,9 +29,20 @@ I downloaded an already existing very simple rainbow 3d model, on one hand, beca
 #### What worked well:
 - I really like my concept, and whoever I told my idea, they found it very sharp and on-point.
 - I especially like the turning a historical object into an AR protest, and I'm very sad that the execution is not legally possible. 
-- 
+- changing to plan B is an easier and cheaper option for execution
+- I tried to solve everything with only asking for opinion from other people, but without asking for hands-on help, which is good for my personal development. 
+
 #### What didn't work well:
-- I could have 
+- I could have started making the rainbow and the technical part already in Berlin
+- that it's forbidden to take photos about the crown, and I think that was my main interest in the project
+- my time management
+- I always do the easier / non-technical things first, and it makes the technical parts even more stressful
+- the project is very site-specific, which makes it harder to execute things, and having a work station a bit far from the site is uncomfortable
+
+#### Future work:
+- to make a version which is accessible for anybody on iphone and android as well
+
 
 ## Lessons Learned
+- I've been joyful about working on the project, which is a better state of mind then being stressed
 - 
