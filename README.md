@@ -1,16 +1,37 @@
 # ARainbow- szivÁRvány
-with Gábor Ott
+
+
+
+
+## Abstract
+### What was the whole project about, what did you archive...
+I wanted to put an AR rainbow in the Hungarian Parliament.
+
 
 ## Concept
-### Background 
-The Hungarian government is not too openminded. Their new law forbidding to talk about any LGBTQ topic to people under 18 years created even more violance towards people, even just putting a rainbow flag on their balcony.  
-### Idea
-My dear friend and copywriter mate, Gábor Ott, had the idea to create an app where people can turn any flag into a rainbow flag in Augmented Reality. 
-We are still developing the concept, but even just placing rainbows in Augmented reality to express solidarity can create a little change. 
-### Plan
-to create an app, where you can put rainbows to connect two places.
-GPS based. 
-
-
+### Motivation, idea, vision, creative / artistic / technical concept
 https://docs.google.com/presentation/d/1vxUbKZKPUp-aRBL-XLMLMGyGDnXppGu5E1kBGsgKRP8/edit?usp=sharing
 
+
+## Implementation
+### How did you do it? Pipeline, execution details, etc.
+I used the Vuforia package of Unity for creating the AR interaction. It's very easy to use, and to upload my version to an android phone. 
+The main problem was to find the perfect marker.
+I downloaded an already existing very simple rainbow 3d model, on one hand, because it was easier, on the other hand I like how simple it looks. 
+
+
+## Results
+### Documentation of your result(s), e.g. images.
+
+
+## Project Reflection & Discussion
+### What worked well, what didn't work and why? In which context does your project stand? Future Work?
+#### What worked well:
+- I really like my concept, and whoever I told my idea, they found it very sharp and on-point.
+- I especially like the turning a historical object into an AR protest, and I'm very sad that the execution is not legally possible. 
+- 
+#### What didn't work well:
+- I could have 
+
+## Lessons Learned
+- 
