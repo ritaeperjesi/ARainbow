@@ -12,3 +12,5 @@ to create an app, where you can put rainbows to connect two places.
 GPS based. 
 
 
+https://docs.google.com/presentation/d/1vxUbKZKPUp-aRBL-XLMLMGyGDnXppGu5E1kBGsgKRP8/edit?usp=sharing
+
