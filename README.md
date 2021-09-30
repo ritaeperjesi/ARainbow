@@ -23,6 +23,7 @@ To make it stable and accessible for other users is the next step.
 ## Results
 ### Documentation of your result(s), e.g. images.
 more in the diary.md
+<img src="img/map.jpg" width="900" />
 <img src="img/kossuth1.jpg" width="900" />
 <img src="img/parlisiker.jpg" width="450" />
 
