@@ -68,6 +68,8 @@ I implemented all the markers and I tried to find the right directions for the r
 I gave a try everywhere, and there were things that worked surprisingly well, there were things that didn't work.
 I started to use a cube as a reference on the marker to see if the marker is being tracked or not.
 
+<img src="img/map.jpg" width="900" />
+
 #### Markers that work well:
 - the statue
 - the street sign
