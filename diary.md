@@ -58,5 +58,28 @@ Another field trip, I looked for marker options at Batthyányi square, which is 
 
 <img src="img/markerek.jpg" width="300" />
 
-I've tried to make the rainbow seethrough again, I don't understand why I'm spending so much time on this. 
+I've tried to make the rainbow seethrough again, I don't understand why I'm spending so much time on this. After trying things again for too long, I asked Denise, she told me how to do it in 2 sentences :S
 And I worked on the documentation most of the time today.
+I tried to optimize the rainbow to the parliament, as I have an appointment for tomorrow. In a smaller space than the parliament is, it is not superconvincieng what I did, but I'm hopeful. I also created a map of all the markers that I'm planning to use and I measured the distances on googlemaps.
+
+
+## 30.09.
+I implemented all the markers and I tried to find the right directions for the rainbows, and the right size and distance.
+I gave a try everywhere, and there were things that worked surprisingly well, there were things that didn't work.
+#### Markers that work well:
+- the statue
+- the street sign
+- the memorial tablet on the wall
+- the stone
+- the other memorial tablet
+- the carpet
+
+#### Markers that don't work well:
+- the cupola - it almost worked, the rainbow appeared when i was moving my phone, but whenever I stopped to make an image, it disappeared. I think the problem is that I zoomed in when I made the marker png, and on the vuforia app I couldn't zoom in.
+- the memorial tablet on the floor - it rained today, and the material was very shiny, and started to reflect it's environment, which probably didn't help
+- the number on the wall - the rain might have caused a change of the colours
+
+As I 
+
+
+
