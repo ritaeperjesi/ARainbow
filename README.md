@@ -41,6 +41,7 @@ unfortunately for the first try the rainbow wasn't too shiny, I had to restart t
 - I especially like the turning a historical object into an AR protest, and I'm very sad that the execution is not legally possible. 
 - changing to plan B is an easier and cheaper option for execution
 - I tried to solve everything with only asking for opinion from other people, but without asking for hands-on help, which is good for my personal development. 
+- rainbows are surprisingly happy to look at. 
 
 #### What didn't work well:
 - I could have started making the rainbow and the technical part already in Berlin
@@ -48,9 +49,11 @@ unfortunately for the first try the rainbow wasn't too shiny, I had to restart t
 - my time management
 - I always do the easier / non-technical things first, and it makes the technical parts even more stressful
 - the project is very site-specific, which makes it harder to execute things, and having a work station a bit far from the site is uncomfortable. Fully charging my laptop and phone in advance would have been smart.
+- I didn't leave enough time (and electricity on my computer) to work on the spot
+- I'm not sure if it is visible that I've put a lot of thinking on so many aspects
 
 #### Future work:
-- to make it more stable where the rainbows appear
+- to make it more stable and precise where the rainbows appear
 - to make a version which is accessible for anybody on iphone and android as well
 - to put it on the app store
 - to make 444 (one of the main independent Hungarian news portals) to write about it
@@ -62,5 +65,5 @@ unfortunately for the first try the rainbow wasn't too shiny, I had to restart t
 - I have a better understanding of how to use augmented reality, I really enjoy finding objects that can be markers, and to look at objects from this weird technical point of view
 - Protesting in AR seems like a good way, it can't be easily controlled and removed, and it's less attackable from the law point of view as well.
 - It's very hard to document AR projects nicely. As it's experienced with a mobile phone, and the spatial relations are the interesting parts of them, I don't know how to make good quality videos. (this has already been an issue at my AR class I took this semester). 
-- I'm still not the queen of time management and working alone. 
+- I'm still not the queen of time management and working alone, so that's something to work on. 
 
