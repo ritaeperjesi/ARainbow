@@ -26,7 +26,10 @@ more in the diary.md
 <img src="img/map.jpg" width="900" />
 <img src="img/kossuth1.jpg" width="900" />
 <img src="img/parlisiker.jpg" width="450" />
-a very bad screencapture video about my mission in the parliament: https://www.youtube.com/watch?v=XgCA68iGcaA 
+a very bad screencapture video about my mission in the parliament:
+https://www.youtube.com/watch?v=XgCA68iGcaA
+https://www.youtube.com/watch?v=xexBfNyhgio
+
 unfortunately for the first try the rainbow wasn't too shiny, I had to restart the app, but I didn't screencapture that :S
 
 
