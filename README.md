@@ -51,11 +51,13 @@ unfortunately for the first try the rainbow wasn't too shiny, I had to restart t
 - to make a version which is accessible for anybody on iphone and android as well
 - to put it on the app store
 - to make 444 (one of the main independent Hungarian news portals) to write about it
-- it's an option to make a nicer rainbow
+- it's an option to make a nicer rainbow.
 
 
 ## Lessons Learned
 - I've been joyful about working on the project, which is a better state of mind then being stressed
 - I have a better understanding of how to use augmented reality, I really enjoy finding objects that can be markers, and to look at objects from this weird technical point of view
 - Protesting in AR seems like a good way, it can't be easily controlled and removed, and it's less attackable from the law point of view as well.
-- 
+- It's very hard to document AR projects nicely. As it's experienced with a mobile phone, and the spatial relations are the interesting parts of them, I don't know how to make good quality videos. (this has already been an issue at my AR class I took this semester). 
+- I'm still not the queen of time management and working alone. 
+
