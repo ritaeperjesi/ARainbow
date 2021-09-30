@@ -20,12 +20,20 @@ looking for rainbow models. this looks kind of how i imagined it.
 https://www.cgtrader.com/3d-models/exterior/landscape/rainbow-e4a36be8-1c3b-4dd2-9f4a-646784080093
 looking at the space of the crown looking for things that could be markers here.
 https://www.thinglink.com/mediacard/1311695728459907074
+
+
 ![crown](img/parlamentscreenshot1.jpg)
 ![crown](img/parlamentscreenshot2.jpg)
 ![crown](img/parlamentscreenshot3.jpg)
+
+
 so far that i can imagine as an option: the kupola itself, the floor pattern. it would be cool if the texture of the marble holding the crown would be it, but it's not too contrasty.
+
+
 ![floor](img/floor.jpeg)
 ![kupola](img/kupola.jpg)
+
+
 I bought tickets to the parliament, unfortunately they just got more expensive. I'll have a trip on the 24th, when I make as many pictures as possibles, for having the images for markers. I'll have another trip on the 28th, when hopefully at least one of my markers will turn on, and put the rainbow in its correct place. In case something goes wrong, I can still go on the 29th or 30th. I'm a bit afraid of that I will look too suspicious, as one can enter the parliament only with 45 min long guided tours, and the crown is just one stop. In theory, I can make photos, but I'm not sure if in the quantity that I want to. 
 
 ## 19.09.
@@ -51,12 +59,16 @@ I made the rainbow colourful, but I couldn't figure out yet, where to put hte bl
 I implemented it though and now it's working that when my phone sees the carpet, the rainbow appears. 
 Weirdly only one side is visible. I might just put 2 rainbows next to each other facing the other directions.
 
+
 <img src="img/screenshot1.jpg" width="300" />
+
 
 ## 29.09.
 Another field trip, I looked for marker options at Batthyányi square, which is on the opposite side of the Danube, so the Parliament has the best iew from there and it's usually photographed from that point of view. Then I went to the Kossuth square, where this time they let average humans on the square, last time it was closed. These are the possible markers I collected today.
 
+
 <img src="img/markerek.jpg" width="300" /> <img src="img/cica2.jpg" width="300" />
+
 
 I've tried to make the rainbow seethrough again, I don't understand why I'm spending so much time on this. After trying things again for too long, I asked Denise, she told me how to do it in 2 sentences :S
 And I worked on the documentation most of the time today.
@@ -68,7 +80,9 @@ I implemented all the markers and I tried to find the right directions for the r
 I gave a try everywhere, and there were things that worked surprisingly well, there were things that didn't work.
 I started to use a cube as a reference on the marker to see if the marker is being tracked or not.
 
+
 <img src="img/map.jpg" width="900" />
+
 
 #### Markers that work well:
 - the statue
@@ -83,18 +97,25 @@ I started to use a cube as a reference on the marker to see if the marker is bei
 - the memorial tablet on the floor - it rained today, and the material was very shiny, and started to reflect it's environment, which probably didn't help
 - the number on the wall - the rain might have caused a change of the colours
 
+
 <img src="img/kossuth1.jpg" width="900" />
 <img src="img/szobor1.jpg" width="900" />
 <img src="img/szobor3.jpg" width="300" /> <img src="img/szobor5.jpg" width="300" />
 
+
 As I already bought a ticket for the Parliament visit in the hope for turning the crown into a marker, I went there today as well. It was still not allowed to take any photos around the crown, but today it was easier to make photos from the neighbour rooms, so I can imagine even having the no photo sign as a marker. 
 This time we went to a different room from the crown room, so I panicked, because my plan was to use the carpet from the neighbour room as a marker and make a photo backwards. Luckily it was the same kind of carpet, and it worked. Unfortunately, my rainbow wasn't placed perfectly, so it's not precisely above the crown, but I could make a photo with the crown and the rainbow, I felt very happy afterwards. It's a 45 min guided tour in the parliament, costing around 10 euros, and there is around 2 minutes to make the photo, and I also tried to be as non-visibly using my phone as possible. 
 
+
 <img src="img/parlisiker.jpg" width="300" />
+
 
 I tried to optimise and correct the placement of the other rainbows afterwards with some little success. I'm not sure why the placement of the rainbows is so unstable, I can imagine that I'm using too big numbers, referring to 60-100 meters, which is not ideal for AR.
 
-I made some mistakes with placing the rainbows, and I actually find these results a lot cooler than the normal ones.
+I made some mistakes with placing the rainbows, and I actually find these results a lot cooler than the normal ones. 
+https://www.youtube.com/watch?v=TPtfIeHjbfE
+
+
 
 <img src="img/batthyanyi2.jpg" width="300" /> 
 <img src="img/batthyanyi3.jpg" width="900" />
