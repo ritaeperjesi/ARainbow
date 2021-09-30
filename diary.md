@@ -81,8 +81,8 @@ I started to use a cube as a reference on the marker to see if the marker is bei
 - the memorial tablet on the floor - it rained today, and the material was very shiny, and started to reflect it's environment, which probably didn't help
 - the number on the wall - the rain might have caused a change of the colours
 
-<img src="img/kossuth1.jpg" width="600" />
-<img src="img/szobor1.jpg" width="600" />
+<img src="img/kossuth1.jpg" width="900" />
+<img src="img/szobor1.jpg" width="900" />
 <img src="img/szobor3.jpg" width="300" /> <img src="img/szobor5.jpg" width="300" />
 
 As I already bought a ticket for the Parliament visit in the hope for turning the crown into a marker, I went there today as well. It was still not allowed to take any photos around the crown, but today it was easier to make photos from the neighbour rooms, so I can imagine even having the no photo sign as a marker. 
@@ -94,5 +94,6 @@ I tried to optimise and correct the placement of the other rainbows afterwards w
 
 I made some mistakes with placing the rainbows, and I actually find these results a lot cooler than the normal ones.
 
-<img src="img/batthyanyi2.jpg" width="300" /> <img src="img/batthyanyi3.jpg" width="300" />
+<img src="img/batthyanyi2.jpg" width="300" /> 
+<img src="img/batthyanyi3.jpg" width="900" />
 
